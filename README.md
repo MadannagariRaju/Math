@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/MadannagariRaju/Math/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/MadannagariRaju/Math/tree/master/0258-add-digits) |
 | [2383-add-two-integers](https://github.com/MadannagariRaju/Math/tree/master/2383-add-two-integers) |
 | [3321-type-of-triangle](https://github.com/MadannagariRaju/Math/tree/master/3321-type-of-triangle) |
 ## Sorting
@@ -24,4 +25,12 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/MadannagariRaju/Math/tree/master/0202-happy-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/MadannagariRaju/Math/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/MadannagariRaju/Math/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
