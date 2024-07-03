@@ -14,6 +14,7 @@
 | [0258-add-digits](https://github.com/MadannagariRaju/Math/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/MadannagariRaju/Math/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/MadannagariRaju/Math/tree/master/2383-add-two-integers) |
+| [2507-number-of-common-factors](https://github.com/MadannagariRaju/Math/tree/master/2507-number-of-common-factors) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/MadannagariRaju/Math/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3227-find-missing-and-repeated-values](https://github.com/MadannagariRaju/Math/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/MadannagariRaju/Math/tree/master/3321-type-of-triangle) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MadannagariRaju/Math/tree/master/0258-add-digits) |
+| [2507-number-of-common-factors](https://github.com/MadannagariRaju/Math/tree/master/2507-number-of-common-factors) |
 ## String
 |  |
 | ------- |
@@ -48,4 +50,8 @@
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/MadannagariRaju/Math/tree/master/3227-find-missing-and-repeated-values) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/MadannagariRaju/Math/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
