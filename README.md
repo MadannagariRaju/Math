@@ -9,6 +9,7 @@
 ## Math
 |  |
 | ------- |
+| [2383-add-two-integers](https://github.com/MadannagariRaju/Math/tree/master/2383-add-two-integers) |
 | [3321-type-of-triangle](https://github.com/MadannagariRaju/Math/tree/master/3321-type-of-triangle) |
 ## Sorting
 |  |
