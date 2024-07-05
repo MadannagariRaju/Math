@@ -53,6 +53,7 @@
 | [0258-add-digits](https://github.com/MadannagariRaju/Math/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/MadannagariRaju/Math/tree/master/0412-fizz-buzz) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/MadannagariRaju/Math/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/MadannagariRaju/Math/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Number Theory
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 ## Linked List
 |  |
 | ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/MadannagariRaju/Math/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/MadannagariRaju/Math/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
 |  |
