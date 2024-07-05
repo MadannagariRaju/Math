@@ -19,6 +19,7 @@
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/MadannagariRaju/Math/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MadannagariRaju/Math/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/MadannagariRaju/Math/tree/master/1610-xor-operation-in-an-array) |
+| [2288-count-operations-to-obtain-zero](https://github.com/MadannagariRaju/Math/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/MadannagariRaju/Math/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/MadannagariRaju/Math/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/MadannagariRaju/Math/tree/master/2507-number-of-common-factors) |
@@ -53,6 +54,7 @@
 | [0258-add-digits](https://github.com/MadannagariRaju/Math/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/MadannagariRaju/Math/tree/master/0412-fizz-buzz) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/MadannagariRaju/Math/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [2288-count-operations-to-obtain-zero](https://github.com/MadannagariRaju/Math/tree/master/2288-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/MadannagariRaju/Math/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Number Theory
 |  |
