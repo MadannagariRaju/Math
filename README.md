@@ -7,6 +7,7 @@
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/MadannagariRaju/Math/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/MadannagariRaju/Math/tree/master/3321-type-of-triangle) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MadannagariRaju/Math/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Math
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [2824-check-if-the-number-is-fascinating](https://github.com/MadannagariRaju/Math/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3227-find-missing-and-repeated-values](https://github.com/MadannagariRaju/Math/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/MadannagariRaju/Math/tree/master/3321-type-of-triangle) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MadannagariRaju/Math/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Sorting
 |  |
 | ------- |
