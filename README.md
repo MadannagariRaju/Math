@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [1293-three-consecutive-odds](https://github.com/MadannagariRaju/Math/tree/master/1293-three-consecutive-odds) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/MadannagariRaju/Math/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MadannagariRaju/Math/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/MadannagariRaju/Math/tree/master/3227-find-missing-and-repeated-values) |
