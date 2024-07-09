@@ -7,6 +7,7 @@
 | ------- |
 | [1293-three-consecutive-odds](https://github.com/MadannagariRaju/Math/tree/master/1293-three-consecutive-odds) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/MadannagariRaju/Math/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1803-average-waiting-time](https://github.com/MadannagariRaju/Math/tree/master/1803-average-waiting-time) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MadannagariRaju/Math/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/MadannagariRaju/Math/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/MadannagariRaju/Math/tree/master/3321-type-of-triangle) |
@@ -59,6 +60,7 @@
 | [0258-add-digits](https://github.com/MadannagariRaju/Math/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/MadannagariRaju/Math/tree/master/0412-fizz-buzz) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/MadannagariRaju/Math/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1803-average-waiting-time](https://github.com/MadannagariRaju/Math/tree/master/1803-average-waiting-time) |
 | [2288-count-operations-to-obtain-zero](https://github.com/MadannagariRaju/Math/tree/master/2288-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/MadannagariRaju/Math/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/MadannagariRaju/Math/tree/master/2645-pass-the-pillow) |
