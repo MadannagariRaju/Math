@@ -25,6 +25,7 @@
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/MadannagariRaju/Math/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MadannagariRaju/Math/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/MadannagariRaju/Math/tree/master/1610-xor-operation-in-an-array) |
+| [1806-count-of-matches-in-tournament](https://github.com/MadannagariRaju/Math/tree/master/1806-count-of-matches-in-tournament) |
 | [2083-three-divisors](https://github.com/MadannagariRaju/Math/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MadannagariRaju/Math/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/MadannagariRaju/Math/tree/master/2288-count-operations-to-obtain-zero) |
@@ -64,6 +65,7 @@
 | [0412-fizz-buzz](https://github.com/MadannagariRaju/Math/tree/master/0412-fizz-buzz) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/MadannagariRaju/Math/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1803-average-waiting-time](https://github.com/MadannagariRaju/Math/tree/master/1803-average-waiting-time) |
+| [1806-count-of-matches-in-tournament](https://github.com/MadannagariRaju/Math/tree/master/1806-count-of-matches-in-tournament) |
 | [2288-count-operations-to-obtain-zero](https://github.com/MadannagariRaju/Math/tree/master/2288-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/MadannagariRaju/Math/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/MadannagariRaju/Math/tree/master/2645-pass-the-pillow) |
