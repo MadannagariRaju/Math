@@ -7,6 +7,7 @@
 | ------- |
 | [1293-three-consecutive-odds](https://github.com/MadannagariRaju/Math/tree/master/1293-three-consecutive-odds) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/MadannagariRaju/Math/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1720-crawler-log-folder](https://github.com/MadannagariRaju/Math/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/MadannagariRaju/Math/tree/master/1803-average-waiting-time) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MadannagariRaju/Math/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/MadannagariRaju/Math/tree/master/3227-find-missing-and-repeated-values) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/MadannagariRaju/Math/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/MadannagariRaju/Math/tree/master/0412-fizz-buzz) |
+| [1720-crawler-log-folder](https://github.com/MadannagariRaju/Math/tree/master/1720-crawler-log-folder) |
 ## Matrix
 |  |
 | ------- |
@@ -97,4 +99,8 @@
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MadannagariRaju/Math/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/MadannagariRaju/Math/tree/master/1610-xor-operation-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/MadannagariRaju/Math/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
