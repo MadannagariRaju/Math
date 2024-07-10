@@ -20,6 +20,7 @@
 | [0202-happy-number](https://github.com/MadannagariRaju/Math/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/MadannagariRaju/Math/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/MadannagariRaju/Math/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/MadannagariRaju/Math/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/MadannagariRaju/Math/tree/master/0728-self-dividing-numbers) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/MadannagariRaju/Math/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MadannagariRaju/Math/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
