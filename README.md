@@ -87,6 +87,7 @@
 | [0412-fizz-buzz](https://github.com/MadannagariRaju/Math/tree/master/0412-fizz-buzz) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MadannagariRaju/Math/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/MadannagariRaju/Math/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/MadannagariRaju/Math/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Matrix
 |  |
 | ------- |
@@ -112,8 +113,13 @@
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MadannagariRaju/Math/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/MadannagariRaju/Math/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/MadannagariRaju/Math/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MadannagariRaju/Math/tree/master/0074-search-a-2d-matrix) |
+## Greedy
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/MadannagariRaju/Math/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
