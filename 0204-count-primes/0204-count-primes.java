@@ -25,6 +25,14 @@ class Solution {
     public int countPrimes(int n) {
         int primes[]= new int[n+1];
         Arrays.fill(primes,1);
+       /* for(int i=2;i<=n;i++) {
+            if(primes[i] ==1) {
+                for(int j=i*2;j<=n;) {
+                    primes[j]=0;
+                    j+=i;
+                }
+            }
+        } */
         for(int i=2;i<=Math.sqrt(n);i++) {
             if(primes[i] ==1) {
                 for(int j=i*i;j<=n;) {
