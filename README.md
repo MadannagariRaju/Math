@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MadannagariRaju/Math/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/MadannagariRaju/Math/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/MadannagariRaju/Math/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/MadannagariRaju/Math/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/MadannagariRaju/Math/tree/master/0412-fizz-buzz) |
@@ -122,4 +123,8 @@
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MadannagariRaju/Math/tree/master/1818-maximum-score-from-removing-substrings) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/MadannagariRaju/Math/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
