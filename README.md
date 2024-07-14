@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MadannagariRaju/Math/tree/master/0074-search-a-2d-matrix) |
+| [0204-count-primes](https://github.com/MadannagariRaju/Math/tree/master/0204-count-primes) |
 | [1293-three-consecutive-odds](https://github.com/MadannagariRaju/Math/tree/master/1293-three-consecutive-odds) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/MadannagariRaju/Math/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1720-crawler-log-folder](https://github.com/MadannagariRaju/Math/tree/master/1720-crawler-log-folder) |
@@ -20,6 +21,7 @@
 | [0013-roman-to-integer](https://github.com/MadannagariRaju/Math/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/MadannagariRaju/Math/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/MadannagariRaju/Math/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/MadannagariRaju/Math/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/MadannagariRaju/Math/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/MadannagariRaju/Math/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/MadannagariRaju/Math/tree/master/0507-perfect-number) |
@@ -75,6 +77,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/MadannagariRaju/Math/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/MadannagariRaju/Math/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/MadannagariRaju/Math/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MadannagariRaju/Math/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -97,6 +100,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/MadannagariRaju/Math/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/MadannagariRaju/Math/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/MadannagariRaju/Math/tree/master/2507-number-of-common-factors) |
 ## Linked List
