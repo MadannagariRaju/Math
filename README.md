@@ -8,6 +8,7 @@
 | [0074-search-a-2d-matrix](https://github.com/MadannagariRaju/Math/tree/master/0074-search-a-2d-matrix) |
 | [0204-count-primes](https://github.com/MadannagariRaju/Math/tree/master/0204-count-primes) |
 | [1293-three-consecutive-odds](https://github.com/MadannagariRaju/Math/tree/master/1293-three-consecutive-odds) |
+| [1319-unique-number-of-occurrences](https://github.com/MadannagariRaju/Math/tree/master/1319-unique-number-of-occurrences) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/MadannagariRaju/Math/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MadannagariRaju/Math/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1720-crawler-log-folder](https://github.com/MadannagariRaju/Math/tree/master/1720-crawler-log-folder) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/MadannagariRaju/Math/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/MadannagariRaju/Math/tree/master/0202-happy-number) |
+| [1319-unique-number-of-occurrences](https://github.com/MadannagariRaju/Math/tree/master/1319-unique-number-of-occurrences) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/MadannagariRaju/Math/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3227-find-missing-and-repeated-values](https://github.com/MadannagariRaju/Math/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
