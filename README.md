@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MadannagariRaju/Math/tree/master/0074-search-a-2d-matrix) |
+| [0136-single-number](https://github.com/MadannagariRaju/Math/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/MadannagariRaju/Math/tree/master/0204-count-primes) |
 | [1293-three-consecutive-odds](https://github.com/MadannagariRaju/Math/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/MadannagariRaju/Math/tree/master/1319-unique-number-of-occurrences) |
@@ -121,6 +122,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/MadannagariRaju/Math/tree/master/0136-single-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MadannagariRaju/Math/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/MadannagariRaju/Math/tree/master/1610-xor-operation-in-an-array) |
 ## Stack
