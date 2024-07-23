@@ -91,6 +91,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MadannagariRaju/Math/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/MadannagariRaju/Math/tree/master/0014-longest-common-prefix) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MadannagariRaju/Math/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/MadannagariRaju/Math/tree/master/0412-fizz-buzz) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MadannagariRaju/Math/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -136,4 +137,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/MadannagariRaju/Math/tree/master/0050-powx-n) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MadannagariRaju/Math/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
