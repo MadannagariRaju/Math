@@ -65,6 +65,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/MadannagariRaju/Math/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MadannagariRaju/Math/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/MadannagariRaju/Math/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/MadannagariRaju/Math/tree/master/1894-merge-strings-alternately) |
 ## Simulation
 |  |
@@ -93,6 +94,7 @@
 | [0013-roman-to-integer](https://github.com/MadannagariRaju/Math/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MadannagariRaju/Math/tree/master/0014-longest-common-prefix) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MadannagariRaju/Math/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/MadannagariRaju/Math/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/MadannagariRaju/Math/tree/master/0412-fizz-buzz) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MadannagariRaju/Math/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/MadannagariRaju/Math/tree/master/1720-crawler-log-folder) |
@@ -141,4 +143,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MadannagariRaju/Math/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/MadannagariRaju/Math/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
