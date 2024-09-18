@@ -103,6 +103,7 @@
 | [1720-crawler-log-folder](https://github.com/MadannagariRaju/Math/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MadannagariRaju/Math/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/MadannagariRaju/Math/tree/master/1894-merge-strings-alternately) |
+| [3379-score-of-a-string](https://github.com/MadannagariRaju/Math/tree/master/3379-score-of-a-string) |
 ## Matrix
 |  |
 | ------- |
