@@ -60,6 +60,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/MadannagariRaju/Math/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/MadannagariRaju/Math/tree/master/0202-happy-number) |
+| [0782-jewels-and-stones](https://github.com/MadannagariRaju/Math/tree/master/0782-jewels-and-stones) |
 | [1319-unique-number-of-occurrences](https://github.com/MadannagariRaju/Math/tree/master/1319-unique-number-of-occurrences) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/MadannagariRaju/Math/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3227-find-missing-and-repeated-values](https://github.com/MadannagariRaju/Math/tree/master/3227-find-missing-and-repeated-values) |
@@ -99,6 +100,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/MadannagariRaju/Math/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MadannagariRaju/Math/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/MadannagariRaju/Math/tree/master/0412-fizz-buzz) |
+| [0782-jewels-and-stones](https://github.com/MadannagariRaju/Math/tree/master/0782-jewels-and-stones) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MadannagariRaju/Math/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/MadannagariRaju/Math/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MadannagariRaju/Math/tree/master/1818-maximum-score-from-removing-substrings) |
